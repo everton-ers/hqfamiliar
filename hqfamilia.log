@@ -1,0 +1,2619 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.3.7)  18 JAN 2012 02:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hqfamilia.tex
+(./hqfamilia.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen112
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Portuguese'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@dimlist=\toks23
+)
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/share/texmf-texlive/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texmf-texlive/tex/latex/ae/aecompl.sty
+Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfm.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/dvipdfm/dvipdfm.def
+File: dvipdfm.def 1999/9/6 vx.x Driver-dependant file
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvipdfm.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\@indexfile=\write3
+\openout3 = `hqfamilia.idx'.
+
+
+Writing index file hqfamilia.idx
+(./hqfamilia.aux (./HQ_clidi.aux) (./HQ_euclides.aux) (./HQ_everton.aux
+
+LaTeX Warning: Label `Everton e Clidi em J\'a era ... instalei o FreeBSD!' mult
+iply defined.
+
+
+LaTeX Warning: Label `Everton e Clidi em Uma semi-deitada!?' multiply defined.
+
+
+LaTeX Warning: Label `Everton e Clidi em Corte de cabelo pela internet' multipl
+y defined.
+
+
+LaTeX Warning: Label `Everton e Clidi em O cubo m\'agico do \'Erico' multiply d
+efined.
+
+
+LaTeX Warning: Label `Clidi e Everton em Como os portugueses tapeavam os \IeC {
+\'\i }ndios' multiply defined.
+
+) (./HQ_erico.aux
+
+LaTeX Warning: Label `Erico e Clidi em Shopping ..., formatar?' multiply define
+d.
+
+) (./HQ_madalena.aux
+
+LaTeX Warning: Label `Madalena e Clidi em Venha acabar com o caf\'e' multiply d
+efined.
+
+
+LaTeX Warning: Label `Madalena e Clidi em Dia do batizado' multiply defined.
+
+
+LaTeX Warning: Label `Madalena e Erico em O livro de RPG do \'Erico' multiply d
+efined.
+
+) (./HQ_rita.aux
+
+LaTeX Warning: Label `Rita e Clidi em Comando Leite Condensado' multiply define
+d.
+
+) (./HQ_rosana.aux))
+\openout1 = `hqfamilia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+*geometry detected driver: dvipdfm*
+-------------------- Geometry parameters
+paper: letterpaper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 73.71613pt, 0.7\paperwidth , 110.57425pt (default)
+v-parts: 95.39737pt, 0.7\paperheight , 143.09605pt (default)
+hmarginratio: 2:3
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: dvipdfm
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  430.00462pt
+\textheight 556.47656pt
+\oddsidemargin  1.44614pt
+\evensidemargin 38.30426pt
+\topmargin  -6.94011pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   25.29494pt
+\marginparwidth 125.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+
+LaTeX Warning: File `capa_scompostela.png' not found on input line 56.
+
+
+! LaTeX Error: File `capa_scompostela.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...udegraphics[scale=1]{capa_scompostela.png}
+                                                  
+? s
+OK, entering \scrollmode...
+
+! LaTeX Error: Cannot determine size of graphic in capa_scompostela.bb (no Boun
+dingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...udegraphics[scale=1]{capa_scompostela.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: capa_scompostela.png Graphic file (type bmp)
+<capa_scompostela.png> [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 98--102
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 110.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 110.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+[2]
+
+LaTeX Warning: File `somerights20pt.png' not found on input line 146.
+
+
+! LaTeX Error: File `somerights20pt.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ...ludegraphics[scale=1]{somerights20pt.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in somerights20pt.bb (no Boundi
+ngBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ...ludegraphics[scale=1]{somerights20pt.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: somerights20pt.png Graphic file (type bmp)
+<somerights20pt.png> [3] [4
+
+] (./hqfamilia.toc)
+\tf@toc=\write4
+\openout4 = `hqfamilia.toc'.
+
+ [5] [6
+
+] (./hqfamilia.lof
+[7])
+\tf@lof=\write5
+\openout5 = `hqfamilia.lof'.
+
+ [8]
+Cap\'{\i }tulo 1.
+[9
+
+] [10] [11
+
+] [12]
+\openout2 = `HQ_clidi.aux'.
+
+ (./HQ_clidi.tex [13
+
+
+] [14]
+Cap\'{\i }tulo 2.
+
+LaTeX Warning: File `HQ_pag3_A.png' not found on input line 11.
+
+
+! LaTeX Error: File `HQ_pag3_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...  \includegraphics[scale=1]{HQ_pag3_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...  \includegraphics[scale=1]{HQ_pag3_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_A.png Graphic file (type bmp)
+<HQ_pag3_A.png>
+
+LaTeX Warning: File `HQ_pag1_E.png' not found on input line 20.
+
+
+! LaTeX Error: File `HQ_pag1_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...  \includegraphics[scale=1]{HQ_pag1_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...  \includegraphics[scale=1]{HQ_pag1_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_E.png Graphic file (type bmp)
+<HQ_pag1_E.png>
+
+LaTeX Warning: File `HQ_pag3_B.png' not found on input line 29.
+
+
+! LaTeX Error: File `HQ_pag3_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...  \includegraphics[scale=1]{HQ_pag3_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...  \includegraphics[scale=1]{HQ_pag3_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_B.png Graphic file (type bmp)
+<HQ_pag3_B.png>
+
+LaTeX Warning: File `HQ_pag3_D.png' not found on input line 38.
+
+
+! LaTeX Error: File `HQ_pag3_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...  \includegraphics[scale=1]{HQ_pag3_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...  \includegraphics[scale=1]{HQ_pag3_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_D.png Graphic file (type bmp)
+<HQ_pag3_D.png>
+
+LaTeX Warning: File `HQ_pag3_E.png' not found on input line 47.
+
+
+! LaTeX Error: File `HQ_pag3_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...  \includegraphics[scale=1]{HQ_pag3_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...  \includegraphics[scale=1]{HQ_pag3_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_E.png Graphic file (type bmp)
+<HQ_pag3_E.png>
+
+LaTeX Warning: File `HQ_pag3_F.png' not found on input line 56.
+
+
+! LaTeX Error: File `HQ_pag3_F.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...  \includegraphics[scale=1]{HQ_pag3_F.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_F.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...  \includegraphics[scale=1]{HQ_pag3_F.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_F.png Graphic file (type bmp)
+<HQ_pag3_F.png>
+
+LaTeX Warning: File `HQ_pag4_A.png' not found on input line 65.
+
+
+! LaTeX Error: File `HQ_pag4_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...  \includegraphics[scale=1]{HQ_pag4_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...  \includegraphics[scale=1]{HQ_pag4_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_A.png Graphic file (type bmp)
+<HQ_pag4_A.png>
+
+LaTeX Warning: File `HQ_pag4_B.png' not found on input line 74.
+
+
+! LaTeX Error: File `HQ_pag4_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...  \includegraphics[scale=1]{HQ_pag4_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...  \includegraphics[scale=1]{HQ_pag4_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_B.png Graphic file (type bmp)
+<HQ_pag4_B.png>
+
+LaTeX Warning: File `HQ_pag4_C.png' not found on input line 83.
+
+
+! LaTeX Error: File `HQ_pag4_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...  \includegraphics[scale=1]{HQ_pag4_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...  \includegraphics[scale=1]{HQ_pag4_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_C.png Graphic file (type bmp)
+<HQ_pag4_C.png>
+
+LaTeX Warning: File `HQ_pag4_D.png' not found on input line 92.
+
+
+! LaTeX Error: File `HQ_pag4_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ...  \includegraphics[scale=1]{HQ_pag4_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ...  \includegraphics[scale=1]{HQ_pag4_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_D.png Graphic file (type bmp)
+<HQ_pag4_D.png>
+
+LaTeX Warning: File `HQ_pag4_E.png' not found on input line 101.
+
+
+! LaTeX Error: File `HQ_pag4_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ... \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ... \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_E.png Graphic file (type bmp)
+<HQ_pag4_E.png> [15
+
+] [16] [17]
+
+LaTeX Warning: File `HQ_pag5_A.png' not found on input line 112.
+
+
+! LaTeX Error: File `HQ_pag5_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 ... \includegraphics[scale=1]{HQ_pag5_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 ... \includegraphics[scale=1]{HQ_pag5_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_A.png Graphic file (type bmp)
+<HQ_pag5_A.png>
+
+LaTeX Warning: File `HQ_pag5_B.png' not found on input line 121.
+
+
+! LaTeX Error: File `HQ_pag5_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 ... \includegraphics[scale=1]{HQ_pag5_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 ... \includegraphics[scale=1]{HQ_pag5_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_B.png Graphic file (type bmp)
+<HQ_pag5_B.png>
+
+LaTeX Warning: File `HQ_pag5_C.png' not found on input line 130.
+
+
+! LaTeX Error: File `HQ_pag5_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 ... \includegraphics[scale=1]{HQ_pag5_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 ... \includegraphics[scale=1]{HQ_pag5_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_C.png Graphic file (type bmp)
+<HQ_pag5_C.png>
+
+LaTeX Warning: File `HQ_pag5_D.png' not found on input line 139.
+
+
+! LaTeX Error: File `HQ_pag5_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ... \includegraphics[scale=1]{HQ_pag5_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ... \includegraphics[scale=1]{HQ_pag5_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_D.png Graphic file (type bmp)
+<HQ_pag5_D.png>
+
+LaTeX Warning: File `HQ_pag5_E.png' not found on input line 148.
+
+
+! LaTeX Error: File `HQ_pag5_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ... \includegraphics[scale=1]{HQ_pag5_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ... \includegraphics[scale=1]{HQ_pag5_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_E.png Graphic file (type bmp)
+<HQ_pag5_E.png>
+
+LaTeX Warning: File `HQ_pag6_A.png' not found on input line 157.
+
+
+! LaTeX Error: File `HQ_pag6_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ... \includegraphics[scale=1]{HQ_pag6_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ... \includegraphics[scale=1]{HQ_pag6_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_A.png Graphic file (type bmp)
+<HQ_pag6_A.png>
+
+LaTeX Warning: File `HQ_pag6_B.png' not found on input line 166.
+
+
+! LaTeX Error: File `HQ_pag6_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ... \includegraphics[scale=1]{HQ_pag6_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ... \includegraphics[scale=1]{HQ_pag6_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_B.png Graphic file (type bmp)
+<HQ_pag6_B.png>
+
+LaTeX Warning: File `HQ_pag6_D.png' not found on input line 175.
+
+
+! LaTeX Error: File `HQ_pag6_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ... \includegraphics[scale=1]{HQ_pag6_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ... \includegraphics[scale=1]{HQ_pag6_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_D.png Graphic file (type bmp)
+<HQ_pag6_D.png>
+
+LaTeX Warning: File `HQ_pag6_E.png' not found on input line 184.
+
+
+! LaTeX Error: File `HQ_pag6_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.184 ... \includegraphics[scale=1]{HQ_pag6_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.184 ... \includegraphics[scale=1]{HQ_pag6_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_E.png Graphic file (type bmp)
+<HQ_pag6_E.png>
+
+LaTeX Warning: File `HQ_pag7_C.png' not found on input line 193.
+
+
+! LaTeX Error: File `HQ_pag7_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 ... \includegraphics[scale=1]{HQ_pag7_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 ... \includegraphics[scale=1]{HQ_pag7_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_C.png Graphic file (type bmp)
+<HQ_pag7_C.png>
+
+LaTeX Warning: File `HQ_pag7_E.png' not found on input line 202.
+
+
+! LaTeX Error: File `HQ_pag7_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 ... \includegraphics[scale=1]{HQ_pag7_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 ... \includegraphics[scale=1]{HQ_pag7_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_E.png Graphic file (type bmp)
+<HQ_pag7_E.png>
+
+LaTeX Warning: File `HQ_pag8_E.png' not found on input line 211.
+
+
+! LaTeX Error: File `HQ_pag8_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 ... \includegraphics[scale=1]{HQ_pag8_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 ... \includegraphics[scale=1]{HQ_pag8_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_E.png Graphic file (type bmp)
+<HQ_pag8_E.png>
+
+LaTeX Warning: File `HQ_pag9_A.png' not found on input line 220.
+
+
+! LaTeX Error: File `HQ_pag9_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ... \includegraphics[scale=1]{HQ_pag9_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag9_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ... \includegraphics[scale=1]{HQ_pag9_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag9_A.png Graphic file (type bmp)
+<HQ_pag9_A.png>
+
+LaTeX Warning: File `HQ_pag9_B.png' not found on input line 229.
+
+
+! LaTeX Error: File `HQ_pag9_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ... \includegraphics[scale=1]{HQ_pag9_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag9_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ... \includegraphics[scale=1]{HQ_pag9_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag9_B.png Graphic file (type bmp)
+<HQ_pag9_B.png>
+
+LaTeX Warning: File `HQ_pag9_D.png' not found on input line 238.
+
+
+! LaTeX Error: File `HQ_pag9_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ... \includegraphics[scale=1]{HQ_pag9_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag9_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ... \includegraphics[scale=1]{HQ_pag9_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag9_D.png Graphic file (type bmp)
+<HQ_pag9_D.png>
+
+LaTeX Warning: File `HQ_pag10_A.png' not found on input line 247.
+
+
+! LaTeX Error: File `HQ_pag10_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 ...\includegraphics[scale=1]{HQ_pag10_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_A.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 ...\includegraphics[scale=1]{HQ_pag10_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_A.png Graphic file (type bmp)
+<HQ_pag10_A.png>
+
+LaTeX Warning: File `HQ_pag10_E.png' not found on input line 256.
+
+
+! LaTeX Error: File `HQ_pag10_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...\includegraphics[scale=1]{HQ_pag10_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_E.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...\includegraphics[scale=1]{HQ_pag10_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_E.png Graphic file (type bmp)
+<HQ_pag10_E.png>) [18
+
+] [19] [20] [21]
+\openout2 = `HQ_euclides.aux'.
+
+ (./HQ_euclides.tex
+
+LaTeX Warning: File `HQ_pag1_D.png' not found on input line 7.
+
+
+! LaTeX Error: File `HQ_pag1_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_D.png Graphic file (type bmp)
+<HQ_pag1_D.png>
+
+LaTeX Warning: File `HQ_pag5_E.png' not found on input line 16.
+
+
+! LaTeX Error: File `HQ_pag5_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag5_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag5_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_E.png Graphic file (type bmp)
+<HQ_pag5_E.png> [22
+
+
+]
+
+LaTeX Warning: File `HQ_pag7_B.png' not found on input line 25.
+
+
+! LaTeX Error: File `HQ_pag7_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag7_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag7_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_B.png Graphic file (type bmp)
+<HQ_pag7_B.png>
+
+LaTeX Warning: File `HQ_pag8_B.png' not found on input line 34.
+
+
+! LaTeX Error: File `HQ_pag8_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag8_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag8_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_B.png Graphic file (type bmp)
+<HQ_pag8_B.png>) [23
+
+]
+\openout2 = `HQ_everton.aux'.
+
+ (./HQ_everton.tex
+
+LaTeX Warning: File `HQ_pag1_C.png' not found on input line 6.
+
+
+! LaTeX Error: File `HQ_pag1_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...   \includegraphics[scale=1]{HQ_pag1_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...   \includegraphics[scale=1]{HQ_pag1_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_C.png Graphic file (type bmp)
+<HQ_pag1_C.png>
+
+LaTeX Warning: File `HQ_pag1_A.png' not found on input line 16.
+
+
+! LaTeX Error: File `HQ_pag1_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag1_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag1_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_A.png Graphic file (type bmp)
+<HQ_pag1_A.png>
+
+LaTeX Warning: File `HQ_pag3_C.png' not found on input line 26.
+
+
+! LaTeX Error: File `HQ_pag3_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...  \includegraphics[scale=1]{HQ_pag3_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...  \includegraphics[scale=1]{HQ_pag3_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_C.png Graphic file (type bmp)
+<HQ_pag3_C.png>
+
+LaTeX Warning: File `HQ_pag3_D.png' not found on input line 36.
+
+
+! LaTeX Error: File `HQ_pag3_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...  \includegraphics[scale=1]{HQ_pag3_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...  \includegraphics[scale=1]{HQ_pag3_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_D.png Graphic file (type bmp)
+<HQ_pag3_D.png>
+
+LaTeX Warning: File `HQ_pag3_F.png' not found on input line 46.
+
+
+! LaTeX Error: File `HQ_pag3_F.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...  \includegraphics[scale=1]{HQ_pag3_F.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_F.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...  \includegraphics[scale=1]{HQ_pag3_F.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_F.png Graphic file (type bmp)
+<HQ_pag3_F.png>
+
+LaTeX Warning: File `HQ_pag4_C.png' not found on input line 56.
+
+
+! LaTeX Error: File `HQ_pag4_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...  \includegraphics[scale=1]{HQ_pag4_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...  \includegraphics[scale=1]{HQ_pag4_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_C.png Graphic file (type bmp)
+<HQ_pag4_C.png>
+
+LaTeX Warning: File `HQ_pag4_D.png' not found on input line 66.
+
+
+! LaTeX Error: File `HQ_pag4_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...  \includegraphics[scale=1]{HQ_pag4_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...  \includegraphics[scale=1]{HQ_pag4_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_D.png Graphic file (type bmp)
+<HQ_pag4_D.png>
+
+LaTeX Warning: File `HQ_pag4_E.png' not found on input line 76.
+
+
+! LaTeX Error: File `HQ_pag4_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 ...  \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 ...  \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_E.png Graphic file (type bmp)
+<HQ_pag4_E.png>
+
+LaTeX Warning: File `HQ_pag5_C.png' not found on input line 86.
+
+
+! LaTeX Error: File `HQ_pag5_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...  \includegraphics[scale=1]{HQ_pag5_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...  \includegraphics[scale=1]{HQ_pag5_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_C.png Graphic file (type bmp)
+<HQ_pag5_C.png> [24
+
+
+]
+
+LaTeX Warning: File `HQ_pag6_A.png' not found on input line 96.
+
+
+! LaTeX Error: File `HQ_pag6_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...  \includegraphics[scale=1]{HQ_pag6_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...  \includegraphics[scale=1]{HQ_pag6_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_A.png Graphic file (type bmp)
+<HQ_pag6_A.png>
+
+LaTeX Warning: File `HQ_pag6_D.png' not found on input line 106.
+
+
+! LaTeX Error: File `HQ_pag6_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ... \includegraphics[scale=1]{HQ_pag6_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ... \includegraphics[scale=1]{HQ_pag6_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_D.png Graphic file (type bmp)
+<HQ_pag6_D.png> [25]
+
+LaTeX Warning: File `HQ_pag6_E.png' not found on input line 116.
+
+
+! LaTeX Error: File `HQ_pag6_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ... \includegraphics[scale=1]{HQ_pag6_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ... \includegraphics[scale=1]{HQ_pag6_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_E.png Graphic file (type bmp)
+<HQ_pag6_E.png>
+
+LaTeX Warning: File `HQ_pag10_B.png' not found on input line 126.
+
+
+! LaTeX Error: File `HQ_pag10_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 ...\includegraphics[scale=1]{HQ_pag10_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_B.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 ...\includegraphics[scale=1]{HQ_pag10_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_B.png Graphic file (type bmp)
+<HQ_pag10_B.png> [26])
+\openout2 = `HQ_erico.aux'.
+
+ (./HQ_erico.tex
+
+LaTeX Warning: File `HQ_pag1_C.png' not found on input line 7.
+
+
+! LaTeX Error: File `HQ_pag1_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_C.png Graphic file (type bmp)
+<HQ_pag1_C.png>
+
+LaTeX Warning: File `HQ_pag3_A.png' not found on input line 16.
+
+
+! LaTeX Error: File `HQ_pag3_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag3_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag3_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_A.png Graphic file (type bmp)
+<HQ_pag3_A.png>
+
+LaTeX Warning: File `HQ_pag3_B.png' not found on input line 25.
+
+
+! LaTeX Error: File `HQ_pag3_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag3_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag3_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_B.png Graphic file (type bmp)
+<HQ_pag3_B.png>
+
+LaTeX Warning: File `HQ_pag4_E.png' not found on input line 34.
+
+
+! LaTeX Error: File `HQ_pag4_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag4_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_E.png Graphic file (type bmp)
+<HQ_pag4_E.png>
+
+LaTeX Warning: File `HQ_pag7_A.png' not found on input line 43.
+
+
+! LaTeX Error: File `HQ_pag7_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...  \includegraphics[scale=1]{HQ_pag7_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...  \includegraphics[scale=1]{HQ_pag7_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_A.png Graphic file (type bmp)
+<HQ_pag7_A.png>
+
+LaTeX Warning: File `HQ_pag8_C.png' not found on input line 52.
+
+
+! LaTeX Error: File `HQ_pag8_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag8_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag8_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_C.png Graphic file (type bmp)
+<HQ_pag8_C.png>
+
+LaTeX Warning: File `HQ_pag8_E.png' not found on input line 61.
+
+
+! LaTeX Error: File `HQ_pag8_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...  \includegraphics[scale=1]{HQ_pag8_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...  \includegraphics[scale=1]{HQ_pag8_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_E.png Graphic file (type bmp)
+<HQ_pag8_E.png>
+
+LaTeX Warning: File `HQ_pag9_C.png' not found on input line 70.
+
+
+! LaTeX Error: File `HQ_pag9_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...  \includegraphics[scale=1]{HQ_pag9_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag9_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...  \includegraphics[scale=1]{HQ_pag9_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag9_C.png Graphic file (type bmp)
+<HQ_pag9_C.png> [27
+
+
+
+] [28])
+\openout2 = `HQ_madalena.aux'.
+
+ (./HQ_madalena.tex
+
+LaTeX Warning: File `HQ_pag1_E.png' not found on input line 7.
+
+
+! LaTeX Error: File `HQ_pag1_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_E.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_E.png Graphic file (type bmp)
+<HQ_pag1_E.png>
+
+LaTeX Warning: File `HQ_pag4_A.png' not found on input line 16.
+
+
+! LaTeX Error: File `HQ_pag4_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag4_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag4_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag4_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag4_A.png Graphic file (type bmp)
+<HQ_pag4_A.png>
+
+LaTeX Warning: File `HQ_pag6_B.png' not found on input line 25.
+
+
+! LaTeX Error: File `HQ_pag6_B.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag6_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_B.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag6_B.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_B.png Graphic file (type bmp)
+<HQ_pag6_B.png>
+
+LaTeX Warning: File `HQ_pag6_C.png' not found on input line 34.
+
+
+! LaTeX Error: File `HQ_pag6_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag6_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag6_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_C.png Graphic file (type bmp)
+<HQ_pag6_C.png>
+
+LaTeX Warning: File `HQ_pag7_Ab.png' not found on input line 43.
+
+
+! LaTeX Error: File `HQ_pag7_Ab.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ... \includegraphics[scale=1]{HQ_pag7_Ab.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_Ab.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ... \includegraphics[scale=1]{HQ_pag7_Ab.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_Ab.png Graphic file (type bmp)
+<HQ_pag7_Ab.png>
+
+LaTeX Warning: File `HQ_pag9_C.png' not found on input line 52.
+
+
+! LaTeX Error: File `HQ_pag9_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag9_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag9_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag9_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag9_C.png Graphic file (type bmp)
+<HQ_pag9_C.png> [29
+
+
+
+] [30])
+\openout2 = `HQ_rita.aux'.
+
+ (./HQ_rita.tex
+
+LaTeX Warning: File `HQ_pag1_A.png' not found on input line 7.
+
+
+! LaTeX Error: File `HQ_pag1_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag1_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...   \includegraphics[scale=1]{HQ_pag1_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag1_A.png Graphic file (type bmp)
+<HQ_pag1_A.png>
+
+LaTeX Warning: File `HQ_pag3_C.png' not found on input line 16.
+
+
+! LaTeX Error: File `HQ_pag3_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag3_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag3_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...  \includegraphics[scale=1]{HQ_pag3_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag3_C.png Graphic file (type bmp)
+<HQ_pag3_C.png>
+
+LaTeX Warning: File `HQ_pag5_D.png' not found on input line 25.
+
+
+! LaTeX Error: File `HQ_pag5_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag5_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag5_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...  \includegraphics[scale=1]{HQ_pag5_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag5_D.png Graphic file (type bmp)
+<HQ_pag5_D.png>
+
+LaTeX Warning: File `HQ_pag6_C.png' not found on input line 34.
+
+
+! LaTeX Error: File `HQ_pag6_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag6_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag6_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...  \includegraphics[scale=1]{HQ_pag6_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag6_C.png Graphic file (type bmp)
+<HQ_pag6_C.png>
+
+LaTeX Warning: File `HQ_pag7_Ab.png' not found on input line 43.
+
+
+! LaTeX Error: File `HQ_pag7_Ab.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ... \includegraphics[scale=1]{HQ_pag7_Ab.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_Ab.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ... \includegraphics[scale=1]{HQ_pag7_Ab.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_Ab.png Graphic file (type bmp)
+<HQ_pag7_Ab.png> [31
+
+
+
+] [32]
+
+LaTeX Warning: File `HQ_pag7_C.png' not found on input line 52.
+
+
+! LaTeX Error: File `HQ_pag7_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag7_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_C.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...  \includegraphics[scale=1]{HQ_pag7_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_C.png Graphic file (type bmp)
+<HQ_pag7_C.png>
+
+LaTeX Warning: File `HQ_pag10_D.png' not found on input line 61.
+
+
+! LaTeX Error: File `HQ_pag10_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ... \includegraphics[scale=1]{HQ_pag10_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_D.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ... \includegraphics[scale=1]{HQ_pag10_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_D.png Graphic file (type bmp)
+<HQ_pag10_D.png>) [33
+
+]
+\openout2 = `HQ_rosana.aux'.
+
+ (./HQ_rosana.tex
+
+LaTeX Warning: File `HQ_pag7_D.png' not found on input line 6.
+
+
+! LaTeX Error: File `HQ_pag7_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...   \includegraphics[scale=1]{HQ_pag7_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag7_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...   \includegraphics[scale=1]{HQ_pag7_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag7_D.png Graphic file (type bmp)
+<HQ_pag7_D.png>
+
+LaTeX Warning: File `HQ_pag8_A.png' not found on input line 15.
+
+
+! LaTeX Error: File `HQ_pag8_A.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...  \includegraphics[scale=1]{HQ_pag8_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_A.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...  \includegraphics[scale=1]{HQ_pag8_A.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_A.png Graphic file (type bmp)
+<HQ_pag8_A.png>
+
+LaTeX Warning: File `HQ_pag8_D.png' not found on input line 24.
+
+
+! LaTeX Error: File `HQ_pag8_D.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...  \includegraphics[scale=1]{HQ_pag8_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag8_D.bb (no BoundingBox
+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...  \includegraphics[scale=1]{HQ_pag8_D.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag8_D.png Graphic file (type bmp)
+<HQ_pag8_D.png>
+
+LaTeX Warning: File `HQ_pag10_C.png' not found on input line 33.
+
+
+! LaTeX Error: File `HQ_pag10_C.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ... \includegraphics[scale=1]{HQ_pag10_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_C.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ... \includegraphics[scale=1]{HQ_pag10_C.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_C.png Graphic file (type bmp)
+<HQ_pag10_C.png>
+
+LaTeX Warning: File `HQ_pag10_E.png' not found on input line 42.
+
+
+! LaTeX Error: File `HQ_pag10_E.bb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ... \includegraphics[scale=1]{HQ_pag10_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in HQ_pag10_E.bb (no BoundingBo
+x).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ... \includegraphics[scale=1]{HQ_pag10_E.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: HQ_pag10_E.png Graphic file (type bmp)
+<HQ_pag10_E.png>) [34
+
+
+] [35] [36
+
+
+]
+Cap\'{\i }tulo 3.
+[37] [38]
+Cap\'{\i }tulo 4.
+No file hqfamilia.ind.
+[39
+
+] [40
+
+] [41] (./hqfamilia.aux (./HQ_clidi.aux) (./HQ_euclides.aux)
+(./HQ_everton.aux) (./HQ_erico.aux) (./HQ_madalena.aux) (./HQ_rita.aux)
+(./HQ_rosana.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2875 strings out of 495062
+ 36846 string characters out of 1182645
+ 90774 words of memory out of 3000000
+ 5903 multiletter control sequences out of 15000+50000
+ 29054 words of font info for 48 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 28i,6n,24p,1356b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on hqfamilia.dvi (41 pages, 65420 bytes).
