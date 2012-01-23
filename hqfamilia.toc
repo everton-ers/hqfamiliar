@@ -1,18 +1,15 @@
 \select@language {brazil}
 \contentsline {paragraph}{Atribui\c c\~ao}{3}
 \contentsline {chapter}{Lista de Figuras}{5}
-\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{9}
-\contentsline {part}{I\hspace {1em}De Pr\'oprio Punho}{11}
-\contentsline {part}{II\hspace {1em}Quadrinhos}{13}
-\contentsline {chapter}{\numberline {2}Tiras de 2001 e 2002}{15}
-\contentsline {section}{\numberline {2.1}Clidi}{15}
-\contentsline {section}{\numberline {2.2}Euclides}{22}
-\contentsline {section}{\numberline {2.3}\'Everton}{24}
-\contentsline {section}{\numberline {2.4}\'Erico}{27}
-\contentsline {section}{\numberline {2.5}Madalena}{29}
-\contentsline {section}{\numberline {2.6}Rita}{31}
-\contentsline {section}{\numberline {2.7}Rosana}{34}
-\contentsline {chapter}{\numberline {3}Ep\IeC {\'\i }logo}{37}
-\contentsline {chapter}{\numberline {4}Agradecimentos}{39}
-\contentsline {chapter}{\'Indice Remissivo}{39}
-\contentsline {chapter}{Bibliografia Comentada}{41}
+\contentsline {chapter}{\numberline {1}Prefacio}{9}
+\contentsline {chapter}{\numberline {2}Prefacio da 1$^a$ edi\c c\~ao}{11}
+\contentsline {chapter}{\numberline {3}Quadrinhos de 2001 e 2002}{13}
+\contentsline {section}{\numberline {3.1}Clidi}{14}
+\contentsline {section}{\numberline {3.2}Euclides}{24}
+\contentsline {section}{\numberline {3.3}\'Everton}{26}
+\contentsline {section}{\numberline {3.4}\'Erico}{31}
+\contentsline {section}{\numberline {3.5}Madalena}{34}
+\contentsline {section}{\numberline {3.6}Rita}{36}
+\contentsline {section}{\numberline {3.7}Rosana}{39}
+\contentsline {chapter}{\numberline {4}Ep\IeC {\'\i }logo}{41}
+\contentsline {chapter}{\numberline {5}Agradecimentos}{43}

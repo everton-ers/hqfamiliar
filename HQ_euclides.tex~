@@ -4,7 +4,7 @@
 %\subsubsection*{O café que não consegue sair da cafeteira}
 \begin{figure}[!htb]
         \centering
-        \includegraphics[scale=1]{img/HQ_pag1_D.png}
+        \includegraphics[scale=1]{HQ_pag1_D.png}
         \caption{Amário e Euclides em O café que não consegue sair da cafeteira}
 	\label{Amário e Euclides em O café que não consegue sair da cafeteira}
 \end{figure}
@@ -13,7 +13,7 @@
 %\subsubsection*{O Papa}
 \begin{figure}[!htb]
         \centering
-        \includegraphics[scale=1]{img/HQ_pag5_E.png}
+        \includegraphics[scale=1]{HQ_pag5_E.png}
         \caption{Euclides e Clidi em O Papa}
 	\label{Euclides e Clidi em O Papa}
 \end{figure}
@@ -22,7 +22,7 @@
 %\subsubsection*{Jornal Nacional}
 \begin{figure}[!htb]
         \centering
-        \includegraphics[scale=1]{img/HQ_pag7_B.png}
+        \includegraphics[scale=1]{HQ_pag7_B.png}
         \caption{Euclides em Jornal Nacional}
 	\label{Euclides em Jornal Nacional}
 \end{figure}
@@ -31,7 +31,7 @@
 %\subsubsection*{O Baruk anda comendo meus jornais}
 \begin{figure}[!htb]
         \centering
-        \includegraphics[scale=1]{img/HQ_pag8_B.png}
+        \includegraphics[scale=1]{HQ_pag8_B.png}
         \caption{Euclides em O Baruk anda comendo meus jornais}
 	\label{Euclides em O Baruk anda comendo meus jornais}
 \end{figure}
