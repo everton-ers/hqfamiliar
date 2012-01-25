@@ -1,3 +1,5 @@
 cmd
 cls
-latex projeto.tex
+cd hq
+latex hqfamiliar.tex
+dvipdfm hqfamiliar.dvi
