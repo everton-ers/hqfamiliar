@@ -1,1 +1,15 @@
-livro e-book com tiras em quadrinhos de uma familia brasiliense em minas gerais
+DESCRIPTION
+
+Livro e-book de tiras em quadrinhos de uma familia brasiliense em minas gerais.
+
+COMO COMPILAR?
+
+Baixe o codigo do projeto, instale o LaTeX.
+
+cd hq
+latex hqfamilia.tex
+dvipdfm hqfamilia.dvi
+
+Sera gerado o arquivo "hqfamilia.pdf" no diretorio /hq.
+
+
