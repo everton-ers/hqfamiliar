@@ -1,6 +1,5 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.3.7)  25 JAN 2012 21:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.10.29)  21 SEP 2013 21:01
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **hqfamilia.tex
 (./hqfamilia.tex
@@ -308,20 +307,23 @@ driver: dvipdfm
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
 File: img/HQ_pag6_B.png Graphic file (type bmp)
-<img/HQ_pag6_B.png> [1
+<img/HQ_pag6_B.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [2]
-LaTeX Font Info:    Try loading font information for U+msa on input line 134.
+ [1
 
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+]
+[1] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 134.
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
@@ -662,7 +664,7 @@ File: img/HQ_pag10_E.png Graphic file (type bmp)
 ] [53] [54
 
 ] [55]
-Underfull \hbox (badness 10000) in paragraph at lines 448--452
+Underfull \hbox (badness 10000) in paragraph at lines 438--442
 
  []
 
@@ -675,12 +677,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2907 strings out of 495062
- 37450 string characters out of 1182645
+ 2892 strings out of 495062
+ 37297 string characters out of 1182643
  91727 words of memory out of 3000000
- 5929 multiletter control sequences out of 15000+50000
- 33774 words of font info for 76 fonts, out of 3000000 for 9000
+ 5919 multiletter control sequences out of 15000+50000
+ 33692 words of font info for 66 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 28i,6n,24p,235b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,6n,24p,270b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on hqfamilia.dvi (56 pages, 64480 bytes).
+Output written on hqfamilia.dvi (57 pages, 64648 bytes).

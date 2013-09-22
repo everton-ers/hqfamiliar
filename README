@@ -1,15 +1,19 @@
-DESCRIPTION
+DESCRICAO
 
 Livro e-book de tiras em quadrinhos de uma familia brasiliense em minas gerais.
 
 COMO COMPILAR?
 
-Baixe o codigo do projeto, instale o LaTeX.
+1. Baixe o codigo fonte deste projeto
 
-cd hq
-latex hqfamilia.tex
-dvipdfm hqfamilia.dvi
+2. instale o LaTeX
 
-Sera gerado o arquivo "hqfamilia.pdf" no diretorio /hq.
+3. Execute>
+
+> cd hq
+> latex hqfamilia.tex
+> dvipdfm hqfamilia.dvi
+
+4. Sera gerado o arquivo "hqfamilia.pdf" no diretorio /hq.
 
 
