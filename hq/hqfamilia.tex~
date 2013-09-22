@@ -7,7 +7,7 @@
 \usepackage{makeidx}  % pacote pra criacao de indice remissivo
 
 \usepackage{geometry}
-%\geometry{a4paper,left=1in,right=1in,top=1in,bottom=1in}
+\geometry{letterpaper,left=1in,right=1in,top=1in,bottom=1in}
 
 
 \usepackage[T1]{fontenc}      % Linha codificacao de fonte T1 (font encoding default T1).
@@ -33,12 +33,13 @@
 %
 %\setlength{\hoffset}{-1mm}    % margem horizontal esquerda
 
-%\setlength{\voffset}{-15pt}    % margem vertical superior
+%\setlength{\voffset}{2mm}    % margem vertical superior
 
 \makeindex   % para a geracao do indice remissivo, em ordem alfabetica, obvio
 
 
 \begin{document}
+
 
 \begin{center}
 
@@ -47,30 +48,44 @@
 %\include{capa_livro_hq}
 %%%%%%%%%%%%
 \thispagestyle{empty}  %este comando elimina o numero de pagina 1 do desta pagina (Sumario)
-%\definecolor{purple}{rgb}{0.62,0.12,0.94} 
+\definecolor{purple}{rgb}{0.62,0.12,0.94} 
 
 \pagecolor{cyan}
-\vspace{60mm}
-\vspace{30mm}
+\textsf{
+\fcolorbox{black}{yellow}{\Large{Leia e entenda porque as diferenças podem levar a uma união familiar duradoura}}
+}
+
+\vspace{8mm}
+
 \begin{figure}[htb]
         \centering
-        \includegraphics[scale=1]{img/HQ_pag6_B.png}
+        \includegraphics[scale=1.2]{img/HQ_pag6_B.png}
 %        \caption{}
 %	\label{}
 \end{figure}
-\vspace{30mm}
-{\Huge \textbf{Uma Família Brasiliense}
-}                
-\vspace{20mm}                                
-{\Huge \textbf{\textcolor{white}{em Minas Gerais}}
-}                
-\vspace{30mm}
-{\Huge
-CRÔNICAS DIVERTIDAS E INUSITADAS DO DIA A DIA
+\vspace{8mm}
+\resizebox{16cm}{5cm}{\textbf{\textcolor{white}{Uma Família Brasiliense}} 
 }
-\vspace{50mm}
-\Huge{\textbf{EVERTON R SILVA}}
-\vspace{25mm}
+
+\vspace{8mm}   
+
+{\Huge \textbf{\textcolor{white}{em Minas Gerais}}
+}
+                
+\vspace{12mm}
+
+{\huge
+%CRÔNICAS DIVERTIDAS E INUSITADAS DO DIA A DIA
+Como uma Familia Fez Para Vencer Momentos Dificeis Superando as Diferenças e Discutindo Sobre Internet, Religião, Historia e Cultura
+}
+
+\vspace{10mm}
+
+\large{
+\textit{\textcolor{black}escrito e desenhado por}
+} \\
+\huge{\textsf{\textcolor{white}{\textit{E R Silva}}}
+} \\
 
 %%%%%%%%%%%%
 % fim capa ebook
@@ -78,45 +93,29 @@ CRÔNICAS DIVERTIDAS E INUSITADAS DO DIA A DIA
 
 \pagenumbering{arabic} % a partir de onde, na pagina, voce insere este comando, ele comecam a fazer a contagem das paginas
 
-\newpage
-\pagecolor{white}
-\thispagestyle{empty}
+\pagecolor{cyan}
 
-\vspace{40mm}
+%%\newpage
 
-\vspace{50mm}
+%%\thispagestyle{empty}
 
+%%\vspace{40mm}
 
-\vspace{10mm}
+%%\begin{minipage}[t]{10cm} \small
+%%\large {
+%%Porque eu sou do tamanho do que vejo e não do tamanho da minha altura.\\
+%%\textit{Fernando Pessoa} }
+%%	%$\circledR$ %marca registrada  
+%%\end{minipage}
 
+%%\vspace{15mm}
 
-\begin{minipage}[t]{8cm} \small
-Porque eu sou do tamanho do que vejo e não do tamanho da minha altura.\\
-\textit{Fernando Pessoa (poeta português)}
-	%$\circledR$ %marca registrada  
-\end{minipage}
-
-\vspace{15mm}
-
-\begin{minipage}[t]{8cm} \small
-O treinamento leva ao aprimoramento na arte.
-\\
-\textit{anonimo}
-
-\end{minipage}
-
-
-\vspace{15mm}
-
-
-\begin{minipage}[t]{8cm} \small
-Quando estiver em duvida injete certeza. Quando estiver com excesso de confiança
- ou certeza ao ponto da arrogância, injete uma pequena dose de incerteza.\\
-\textit{anonimo}
-
-\end{minipage}
-
-
+%%\begin{minipage}[t]{10cm} \small
+%%\large {
+%%O treinamento leva ao aprimoramento na arte.
+%%\\ 
+%%\textit{M. Ueshiba}}
+%%\end{minipage}
 
 \end{center}
 
@@ -128,90 +127,73 @@ Quando estiver em duvida injete certeza. Quando estiver com excesso de confiança
 \vspace{20mm}
 
 
-\begin{minipage}[t]{8cm} \small
+\begin{minipage}[t]{12cm} \small
 
 3$^a$ edição - São Paulo, SP\\
 Setembro de 2013\\
+
+\vspace{3mm}
+
+Todos os Direitos Reservados à\\
+Tconibo Editora Ltda\\
+São Paulo, SP - Brasil\\
+
+\vspace{3mm}
+
+Copyright - E R Silva, 2013\\
+Uma Familia Brasiliense em Minas Gerais\\
+\\http://familiabrasiliense-hq.tconibo.org\\
+
+
 
 
 %2$^a$ edição - São Paulo, SP\\
 %Fevereiro de 2012\\
 
-\vspace{3mm}
+\vspace{10mm}
 
-tconibo editora
-
-\vspace{5mm}
-
-http://familiabrasiliense-hq.tconibo.org
 
 \end{minipage}
 
 \vspace{20mm}
 
-\begin{center}
-Este livro é distribuído através da Licença Creative Commons 
-\begin{figure}[!htb]
-        \centering
-        \includegraphics[scale=1]{img/somerights20pt.png}
+%%\begin{center}
+%%Este livro é distribuído através da Licença Creative Commons 
+%%\begin{figure}[!htb]
+%%        \centering
+%%        \includegraphics[scale=1]{img/somerights20pt.png}
+%%
+%%\end{figure}
+%%\end{center}
 
-\end{figure}
-\end{center}
+%%\vspace{10mm}
+%%\begin{flushleft}
 
+%%O utilizador pode:
 
-\vspace{10mm}
-\begin{flushleft}
+%%\vspace{5mm}
 
-O utilizador pode:
+%%    * copiar, distribuir, exibir e executar a obra\\
+%%    * criar obras derivadas\\
+%%    * fazer uso comercial da obra\\
 
-\vspace{5mm}
+%%\vspace{5mm}
 
-    * copiar, distribuir, exibir e executar a obra\\
-    * criar obras derivadas\\
-    * fazer uso comercial da obra\\
+%%Sob as seguintes condições:
+%%\paragraph{Atribuição} O utilizador deve dar crédito ao autor original, da forma especificada pelo autor ou licenciante.
 
-\vspace{5mm}
+%%\vspace{5mm}
 
-Sob as seguintes condições:
-\paragraph{Atribuição} O utilizador deve dar crédito ao autor original, da forma especificada pelo autor ou licenciante.
+%%    * Para cada reutilização ou distribuição, deverá deixar claro para outros os termos da licença desta obra.\\
+%%    * Qualquer uma destas condições podem ser renunciadas, desde que obtenha permissão por parte do autor.
 
-\vspace{5mm}
+%%\vspace{5mm}
 
-    * Para cada reutilização ou distribuição, deverá deixar claro para outros os termos da licença desta obra.\\
-    * Qualquer uma destas condições podem ser renunciadas, desde que obtenha permissão por parte do autor.
+%%Licença na íntegra: http://creativecommons.org/licenses/by/2.5/br/
 
-\vspace{5mm}
-
-Licença na íntegra: http://creativecommons.org/licenses/by/2.5/br/
-
-\end{flushleft}
+%%\end{flushleft}
 
 \clearpage
-\newpage
-\thispagestyle{empty} 
-%pagina 4
-\begin{center}
-
-\vspace{60mm}
-
-{\Huge \textbf{Uma Família Brasiliense}
-}                
-\vspace{5mm}                
-                
-{\Huge \textbf{em Minas Gerais}
-}                
-\vspace{10mm}
-
-CRÔNICAS DIVERTIDAS E INUSITADAS DO DIA A DIA
-
-\vspace{30mm}
-
-\large{\textbf{EVERTON R SILVA}}
-
-\vspace{30mm}
-
-
-\end{center}
 
 
 
@@ -237,15 +219,22 @@ CRÔNICAS DIVERTIDAS E INUSITADAS DO DIA A DIA
 \addcontentsline{toc}{chapter}{Prefacio}
 \chapter*{Prefacio} 
 
-As tiras em quadrinhos contidas aqui fazem parte dos anos 2000, 2001 e 2002. 
-Nesta epoca os cinco irmãos estavam entre a escola no segundo grau e a faculdade. 
-Com nossos pais, recem aposentados de empregos publicos, morando numa cidade nova para todos nós (Uberlandia, MG)
-as tirinhas capturam situações que refletem o relacionamento familiar e a personalidade de cada um.
+As tiras em quadrinhos contidas neste livro fazem parte dos anos 2000, 2001 e 2002. 
+Nesta epoca os cinco irmãos estavam entre a escola (primeiro e segundo grau) e a faculdade. 
+Juntos com nossos pais, recem aposentados de empregos publicos, morando numa cidade nova para todos nós (Uberlandia, MG), 
+as tirinhas capturam situações que refletem o relacionamento familiar e a personalidade de cada um. Entre conflitos, 
+conversas, risadas e brincadeiras eu espero que você aprecie a leitura e quem sabe faça
+suas proprias tirinhas em quadrinhos observando seus parentes e/ou amigos.  
 
 \vspace{3mm}
  
 Enquanto rabiscava estes desenhos nunca pensei que faria este ebook, porem um dia resolvi escanear os desenhos.
-Passaram-se então alguns anos e lancei este ebook apenas entre as pessoas proximas pois não encontrava tempo para fazer uma divulgação melhor. Agora chegou o dia de divulgar melhor esta HQ, de forma que mais pessoas tenham acesso a este trabalho. 
+Passaram-se então alguns anos e lancei este ebook apenas entre as pessoas proximas pois não encontrava tempo para fazer uma divulgação melhor. 
+Agora chegou o dia de divulgar melhor esta HQ, de forma que mais pessoas tenham acesso a este trabalho. 
+
+\vspace{3mm}
+
+Obrigado a você que adquiriu este livro.
 
 \clearpage
 \newpage
@@ -367,8 +356,8 @@ significativa em família.
 
 Hoje em dia 'A Familía Brasiliense' esta espalhada por alguns estados do país e não mais moramos
 juntos, como retratado nas tiras neste livro. Everton se casou, tem um filho, e mora em Sao Paulo, sp.
-Rita se casou e mora em Curitiba, pr. Erico se casou e mora em Brasília, df. Rosana tambem se casou e mora
-em Uberlândia, mg. Nossos pais e o Clidi estão na mesma casa em Uberlandia, 
+Rita se casou e mora em Curitiba, pr. Erico se casou, tem uma bonita filhinha e mora em Brasília, df. 
+Rosana tambem se casou e mora em Uberlândia, mg. Nossos pais e o Clidi estão na mesma casa em Uberlandia, 
 junto com o cachorro Baruk e o gato Mingau.
 
 \vspace{3mm}
@@ -393,8 +382,8 @@ Sou grato por tudo
  As situações relatadas nas tiras em quadrinhos deste livro aconteceram entre o ano 2000 e o ano 2002 
  porem as tiras foram criadas entre 2001 e 2002. No ano de 2004 eu comecei o trabalho de digitalizar e 
  planejar este livro e
- no ano de 2006 terminei a primeira versão deste livro, que foi distribuido entre a familia. Somente no ano de
- 2012 consegui lançar um edição melhor e mais organizada, com o objetivo de alcançar mais pessoas.
+ no ano de 2006 terminei a primeira versão deste livro, que foi distribuido entre a familia. Somente entre
+ 2012 e 2013 consegui lançar um edição melhor e mais organizada, com o objetivo de alcançar mais pessoas.
  
 \newpage
 \thispagestyle{empty}
@@ -434,16 +423,32 @@ Obrigado a todos!
 
 \begin{center}
 
-\vspace{1000mm}
-\begin{minipage}[t]{8cm} \small
-Livro gerado no software\\ 
-Tex Live 2009/Debian,\\
-no sistema operacional\\ 
-Linux Ubuntu\\
+\vspace{10mm}
+%\begin{minipage}[t]{8cm} \small
+%Este Ebook foi feito utilizando Software Livre:\\
+%TeX/LaTeX rodando em Ubuntu Linux.\\
 
 \end{minipage}
 
+\vspace{20mm}
 
+\textsf{
+\fcolorbox{black}{yellow}{\Large{Aprecie a leitura, beba seu chimarrão ou café com tranquilidade e seja feliz!}}
+}
+
+\end{center}
+
+
+\clearpage
+\newpage
+\thispagestyle{empty}
+\pagecolor{yellow}
+
+\begin{center}
+\begin{minipage}[t]{8cm} \small
+% comentario
+% comentario
+\end{minipage}
 
 \end{center}
 
