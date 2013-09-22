@@ -93,8 +93,6 @@ Como uma Familia Fez Para Vencer Momentos Dificeis Superando as Diferenças e Dis
 
 \pagenumbering{arabic} % a partir de onde, na pagina, voce insere este comando, ele comecam a fazer a contagem das paginas
 
-\pagecolor{cyan}
-
 %%\newpage
 
 %%\thispagestyle{empty}
@@ -123,7 +121,7 @@ Como uma Familia Fez Para Vencer Momentos Dificeis Superando as Diferenças e Dis
 
 \newpage
 \thispagestyle{empty} 
-
+\pagecolor{white}		
 \vspace{20mm}
 
 
@@ -194,8 +192,6 @@ Uma Familia Brasiliense em Minas Gerais\\
 %%\end{flushleft}
 
 \clearpage
-
-
 
 %\newcommand{\til}{\~{}} define um novo nome para o comando que imprime ~.
 
@@ -315,37 +311,46 @@ isso começou quando ele devia ter uns dois anos e mal sabia falar, na epoca que
 
 \part{Quadrinhos de 2001 e 2002} 
 
+\pagecolor{cyan}		
 
-\chapter{Clidi}		
+\chapter{Clidi}
+
 \include{HQ_clidi}
 \newpage
 \thispagestyle{empty} 
 
 \chapter{Euclides}
+
 \include{HQ_euclides}
 \newpage
 \thispagestyle{empty} 
 
 \chapter{Érico}
+
 \include{HQ_erico}
 
+
 \chapter{Éverton}
+
 \include{HQ_everton}
 
 \chapter{Madalena}
+
 \include{HQ_madalena}
 \newpage
 \thispagestyle{empty} 
 
 \chapter{Rita}
+
 \include{HQ_rita}
 
 \chapter{Rosana}
+
 \include{HQ_rosana}
 \newpage
 \thispagestyle{empty} 
 
-
+\pagecolor{white}
 \addcontentsline{toc}{chapter}{Epílogo}
 \chapter*{Epílogo} 
 
@@ -383,7 +388,7 @@ Sou grato por tudo
  porem as tiras foram criadas entre 2001 e 2002. No ano de 2004 eu comecei o trabalho de digitalizar e 
  planejar este livro e
  no ano de 2006 terminei a primeira versão deste livro, que foi distribuido entre a familia. Somente entre
- 2012 e 2013 consegui lançar um edição melhor e mais organizada, com o objetivo de alcançar mais pessoas.
+ 2012 e 2013 consegui lançar um edição melhor e mais organizada, no formato ebook, com o objetivo de alcançar mais pessoas.
  
 \newpage
 \thispagestyle{empty}
@@ -420,11 +425,12 @@ Obrigado a todos!
 \newpage
 \thispagestyle{empty}
 
-
+\pagecolor{cyan}
 \begin{center}
 
 \vspace{10mm}
-%\begin{minipage}[t]{8cm} \small
+\begin{minipage}[t]{8cm} \small
+
 %Este Ebook foi feito utilizando Software Livre:\\
 %TeX/LaTeX rodando em Ubuntu Linux.\\
 
@@ -438,19 +444,19 @@ Obrigado a todos!
 
 \end{center}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%\clearpage
+%\newpage
+%\thispagestyle{empty}
+%\pagecolor{yellow}
 
-\clearpage
-\newpage
-\thispagestyle{empty}
-\pagecolor{yellow}
+%\begin{center}
+%\begin{minipage}[t]{8cm} \small
+%% comentario
+%% comentario
+%\end{minipage}
 
-\begin{center}
-\begin{minipage}[t]{8cm} \small
-% comentario
-% comentario
-\end{minipage}
-
-\end{center}
+%\end{center}
 
 %\addcontentsline{toc}{chapter}{Índice Remissivo}
 
